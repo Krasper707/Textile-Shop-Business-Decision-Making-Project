@@ -94,9 +94,6 @@ This Business Decision-Making (BDM) project is a data-driven consulting analysis
 ```bash
 BDM-Textile-Shop/
 │
-├── data/                      # Raw and cleaned datasets
-├── notebooks/                 # Jupyter notebooks for EDA and modeling
 ├── visuals/                   # Charts and graphs
 ├── reports/                   # PPT and final recommendations
 ├── README.md                  # Project documentation
-└── requirements.txt           # Python dependencies
